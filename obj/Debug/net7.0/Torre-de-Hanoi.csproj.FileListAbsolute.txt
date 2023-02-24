@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\bin\Debug\net7.0\Torre-de-Hanoi.exe
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\bin\Debug\net7.0\Torre-de-Hanoi.deps.json
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\bin\Debug\net7.0\Torre-de-Hanoi.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\bin\Debug\net7.0\Torre-de-Hanoi.dll
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\bin\Debug\net7.0\Torre-de-Hanoi.pdb
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.dll
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\refint\Torre-de-Hanoi.dll
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.pdb
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\Torre-de-Hanoi.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Torre-de-Hanoi\obj\Debug\net7.0\ref\Torre-de-Hanoi.dll
